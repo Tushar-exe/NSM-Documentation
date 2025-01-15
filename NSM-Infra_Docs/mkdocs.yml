@@ -1,0 +1,37 @@
+site_name: NSM-Infra 
+
+extra_css:
+  - stylesheet/image.css
+
+# plugins:
+#   - search
+#   - pdf-export
+
+theme:
+  name: 'material'
+  # logo: logo/nsm-logo.png
+  logo: logo/image.png
+
+nav:
+  - NSM Systems:
+      - PARAM Shivay: https://nsmindia.in/node/155
+      - PARAM Shakti: https://nsmindia.in/node/156
+      - PARAM Brahma: https://nsmindia.in/node/157
+      - PARAM Yukti: https://nsmindia.in/node/158
+      - PARAM Sanganak: https://nsmindia.in/node/165
+      - PARAM Pravega: https://nsmindia.in/node/185
+      - PARAM Seva: https://nsmindia.in/node/183
+      - PARAM Smriti: https://nsmindia.in/node/184
+      - PARAM Utkarsh: https://nsmindia.in/node/181
+      - PARAM Ganga: https://nsmindia.in/node/182
+      - PARAM Ananta: https://nsmindia.in/node/201
+      - PARAM Porul: https://nsmindia.in/node/202
+      - PARAM Himalaya: https://nsmindia.in/node/203
+      - PARAM Kamrupa: https://nsmindia.in/node/204
+      - PARAM Siddhi-AI: https://nsmindia.in/node/218
+      - PARAM Rudra IUAC: https://nsmindia.in/node/240
+      - PARAM Rudra SN-Bose: https://nsmindia.in/node/241
+      - PARAM Rudra GMRT: https://nsmindia.in/node/242
+
+
+
